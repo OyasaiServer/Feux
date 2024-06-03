@@ -1,0 +1,23 @@
+name: Feux
+version: '${version}'
+main: com.baakun.feux.Feux
+api-version: '1.20'
+prefix: Feux
+authors: [ Shun Ueda ]
+description: Made for Oyasai Server's 5th Anniversary Event
+commands:
+  start:
+    description: Start Command
+    usage: /<command> [script]
+  end:
+    description: End Command
+    usage: /<command> [script]
+  test:
+    description: Test Command
+    usage: /<command>
+  anchor:
+    description: Anchor Command
+    usage: /<command>
+  anchors:
+    description: Anchors Command
+    usage: /<command>
