@@ -4,7 +4,7 @@ main: com.baakun.feux.Feux
 api-version: '1.20'
 prefix: Feux
 authors: [ Shun Ueda ]
-description: Made for Oyasai Server's 5th Anniversary Event
+description: Script runner
 commands:
   start:
     description: Start Command
@@ -17,7 +17,4 @@ commands:
     usage: /<command>
   anchor:
     description: Anchor Command
-    usage: /<command>
-  anchors:
-    description: Anchors Command
     usage: /<command>

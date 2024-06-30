@@ -1,5 +1,4 @@
-rows: 2
-horizontal_interval: 7
-horizontal_offset: 2
-vertical_interval: 3
-wings: 3
+firework:
+  interval: 1
+  wings: 20
+  vertical_offset: 1
